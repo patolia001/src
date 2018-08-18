@@ -1,1 +1,1 @@
-# tweet
+Tweetme. Created by following tutorial of tweetme on udemy.
